@@ -1,2 +1,4 @@
 # homeboard
 An interactive display panel used to monitor and control your home from one place
+
+Homeboard can be used to display and interact with many different things. It will have different pages (one physical screen, but you can scroll through different pages) One can show your network's status, like if the network has internet connection, if any important devices are down (NAS, router, AP's, etc), uptime/downtime etc. Another for weather, with sensors inside the homeboard that record room temp, humidity etc. rather than only displaying what's outside. Calendar, system stats, and other pages will also be added. It will also host it's own web app be controlled  wirelessly. It will feature a few buttons and a slider to interact with the pages. For example, buttons can be used to cycle through different options, and the slider could be used to control your smart light's brightness level.
